@@ -8,7 +8,7 @@ const Header = () => {
                 <ul>
                     <Link to="/gardes"><li>Why Gardes Index ?</li></Link>
                     <Link to="/ressources"><li>Ressources</li></Link>
-                    <Link to="/gardes"><li>Contribute</li></Link>
+                    <a href="https://github.com/oussema/GardesIndex"><li>Contribute</li></a>
                 </ul>
             <div className="donationAdress">Donate: 0x74fEE6bBd1dD965Ea90638faF37fD4A861F47178</div>
         </div>
