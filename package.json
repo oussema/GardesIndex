@@ -1,7 +1,10 @@
 {
-  "name": "gardesindexdesign",
+  "name": "gardesindex",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "8.9.1"
+  },
   "dependencies": {
     "lightweight-charts": "^2.0.0",
     "react": "^16.13.1",
