@@ -1,0 +1,49 @@
+.innerGardesIndex{
+    
+    border-radius:15px; 
+    height: 580px;
+    width: 1050px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.outerGardesIndex{
+    margin-left:200px; 
+   
+}
+
+.GardesMyChart{
+    margin: 15px;
+}
+.GardesIndexChange{
+    margin-left: 80%;
+    padding: 0px
+}
+.GardesIndexPrice{
+    float: left;
+    padding: 0px;
+}
+.ListButtonTime{
+    padding: 20px
+}
+
+.ListButtonTime button{
+    color: rgb(74,181,235);
+    margin: 0 10px 10px;
+    background: rgb(243, 239, 235);
+    border-radius: 15px;
+    border:rgb(243, 239, 235);
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.current{
+    background:  rgb(112,192,235);
+    color:rgb(243, 239, 235);
+}
+.ListButtonTime button:hover{
+    background:  rgb(112,192,235);
+    color:rgb(243, 239, 235);
+}

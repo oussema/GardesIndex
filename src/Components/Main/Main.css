@@ -1,0 +1,58 @@
+.outerMain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.MainDecription{
+    float: left;
+    width: 170px;
+    height: 500px;
+    border-radius: 15px;
+    padding: 15px ;
+    background: rgb(74,181,235);
+    margin-top: 10px ;
+    display: flex;
+    flex-direction:column;
+    justify-content: center; 
+}
+.MainDescriptionText{
+    margin-top: 15px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 18px;
+    letter-spacing: -0.4px;
+    word-spacing: -0.2px;
+    color: #141414;
+    font-weight: 400;
+    font-style: normal;
+    font-variant: normal;
+    text-align: center;
+}
+.ListButtonGardesIndex{
+   margin-left:-20px ;
+   display: flex;
+   justify-content: space-around;
+   margin-right: -20px;
+   background: rgb(74,181,235);
+}
+.ListButtonGardesIndex button{
+ 
+    background: rgb(74,181,235);
+    padding: 10px 0px;
+    border: rgb(74,181,235);
+    width: 230px;
+    color: antiquewhite;
+}
+
+.ListButtonGardesIndex button:hover{
+    background: antiquewhite;
+    color: rgb(74,181,235);
+}
+.MarketCapStyle{
+    margin-top: 50px; 
+    text-align: center;
+}
+.VolumeStyle{
+    margin-top: 50px;
+    text-align: center;
+}
