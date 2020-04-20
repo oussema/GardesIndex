@@ -4,7 +4,7 @@ import './Footer.css';
 const Footer = () => {
     return (
         <div className="outerFooter">
-            <a href="https://github.com/oussema" className="linkFooter">
+            <a href="https://github.com/oussema/GardesIndex" className="linkFooter">
                 <img alt="Github"  src={require("../../Assets/icons/github.jpg")} />
                 <div>Github</div>
             </a>
